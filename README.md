@@ -12,7 +12,7 @@ Terraform module which creates *describe your intent* resources on AWS.
 Use this template to scaffold a new terraform module. Remember to change the following:
 - The descriptions and build badges in this [README](README.md).
 - Update or delete the [basic](examples/basic/README.md) and [complete](examples/complete/README.md) examples
-- Update the [e2e tests](test/).
+- Optional: Update the [e2e tests](test/).
 
 ## Authors
 
